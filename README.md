@@ -1,7 +1,6 @@
 ### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ... Generative Adversarial Networks
-- 🌱 I’m currently learning ... Deep learning
+- 🔭 I’m currently working on ... Reinforcement Learning
 - 🤩 I'm passionate about AI and Astronomy
 - 📫 How to reach me: lucas.fer.vil@outlook.com
 
