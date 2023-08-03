@@ -1,9 +1,5 @@
 ### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ... Reinforcement Learning
-- 🤩 I'm passionate about AI and Astronomy
-- 📫 How to reach me: lucas.fer.vil@outlook.com
-
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
