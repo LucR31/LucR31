@@ -8,8 +8,8 @@
 ![](https://img.shields.io/badge/Tools-Scikit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucR31&layout=compact)
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucR31&layout=compact)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucR31&show_icons=true&theme=dracula)-->
 
 
 <!--
