@@ -9,7 +9,7 @@
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucR31&layout=compact)-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucR31&show_icons=true&theme=dracula&rank_icon=github)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucR31&show_icons=true&theme=dracula&rank_icon=github)-->
 
 
 <!--
