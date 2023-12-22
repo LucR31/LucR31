@@ -10,12 +10,12 @@
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 
-<!--I’m currently **working on** <a href="https://">Aiida</a><br>
-**Interests:** AI, mathematics and astronomy-->
+I’m currently **working on** <a href="https://www.aiida.net/sections/about.html">Aiida</a><br>
+**Interests:** AI, mathematics and astronomy
 
 ----
 
-<a href="https://">
+<a href="https://www.linkedin.com/in/lucas-fernandez-vilanova-447890229/">
   <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
