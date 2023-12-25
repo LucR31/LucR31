@@ -1,4 +1,8 @@
 ### L. Fernandez
+
+<!--“Any sufficiently advanced technology is indistinguishable from magic”.<br>
+**Arthur C. Clarke**-->
+
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
