@@ -1,8 +1,5 @@
 ### L. Fernandez
 
-<!--“Any sufficiently advanced technology is indistinguishable from magic”.<br>
-**Arthur C. Clarke**-->
-
 ----
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
@@ -19,6 +16,9 @@ I’m currently **working on** <a href="https://www.aiida.net/sections/about.htm
 **Interests:** AI, mathematics and astronomy
 
 ----
+
+“Any sufficiently advanced technology is indistinguishable from magic”.<br>
+**Arthur C. Clarke**
 
 <a href="https://www.linkedin.com/in/lucas-fernandez-vilanova-447890229/">
   <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
