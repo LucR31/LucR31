@@ -17,8 +17,8 @@ I’m currently **working on** <a href="https://www.aiida.net/sections/about.htm
 
 ----
 
-“Any sufficiently advanced technology is indistinguishable from magic”.<br>
-**Arthur C. Clarke**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Any sufficiently advanced technology is indistinguishable from magic”.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Arthur C. Clarke**
 
 <a href="https://www.linkedin.com/in/lucas-fernandez-vilanova-447890229/">
   <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
