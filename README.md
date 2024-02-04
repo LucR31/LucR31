@@ -6,6 +6,7 @@
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![C++](https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=C%2B%2B&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=36465D&logoColor=AAA&style=flat-square&link=)
+![html](https://img.shields.io/static/v1?logo=latex&label=&message=latex&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
