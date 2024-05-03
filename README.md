@@ -14,7 +14,7 @@
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=html5&color=36465D&logoColor=AAA&style=flat-square&link=)
 
 I’m currently **working on** <a href="https://www.aiida.net/sections/about.html">AiiDA</a><br>
-**Interests:** AI, mathematics and astronomy
+**Interests:** AI and mathematics
 
 ----
 
