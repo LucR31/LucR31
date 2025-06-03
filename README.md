@@ -17,10 +17,6 @@ I’m currently **working on** <a href="https://www.aiida.net/sections/about.htm
 
 ----
 
-<a href="https://www.linkedin.com/in/lucas-fernandez-vilanova-447890229/">
-  <img align="left" alt="Lucas's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucR31&layout=compact)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucR31&show_icons=true&theme=dracula&rank_icon=github)-->
